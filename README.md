@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RomanSaltykov
 - 👀 I’m interested in Web technologies
-- 🌱 I’m currently studying at QA Engineer courses
+- 🌱 I’m graduate at QA Engineer courses
 - 💞️ I’m looking to collaborate on something interesting
 - 📫 How to reach me 
 https://www.facebook.com/
